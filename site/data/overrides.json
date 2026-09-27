@@ -3,6 +3,7 @@
   "order": [
     "omarchy-patina",
     "omarchy-redlight",
+    "omarchy-logomarchy",
     "omarchy-macromancy",
     "omarchy-apple-music-mini",
     "omarchy-soundstage",
@@ -14,6 +15,11 @@
       "title": "Apple Music Mini",
       "blurb": "Miniplayer overlay for Omarchy Apple Music — latest upstream plus playback and UI tweaks.",
       "icon": "icons/apple-music-mini.svg"
+    },
+    "omarchy-logomarchy": {
+      "title": "Logomarchy",
+      "blurb": "Omarchy logo wallpaper in every theme's colors. Size and colors from Style → Logomarchy.",
+      "icon": "icons/logomarchy.svg"
     },
     "omarchy-macromancy": {
       "title": "Macromancy",
