@@ -84,6 +84,7 @@ Plugin marks are vendored from **pixelarticons** (MIT, © Gerrit Halfmann), a st
 | Soundstage | `monitor` |
 | Type | `letter-t` |
 | Forecast | `cloud-sun` |
+| Logomarchy | `image` |
 | Default | `layout` |
 | Copy / copied | `copy` / `check` |
 
